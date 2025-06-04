@@ -1,4 +1,8 @@
 #支持私库
+nginx:latest
+alpine:3.15 --platform=linux/amd64
+docker.io/library/redis:6.2
+
 infiniflow/ragflow:v0.16.0
 infiniflow/infinity:v0.6.0-dev3
 
